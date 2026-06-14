@@ -1,46 +1,34 @@
-# Aplicación de Gestión de Tareas Domésticas
+# Sistema Inclusivo
 
 ## Descripción
 
-La Aplicación de Gestión de Tareas Domésticas es un sistema diseñado para facilitar la organización, asignación y seguimiento de actividades del hogar entre diferentes usuarios. Permite administrar tareas de manera eficiente, monitorear su estado y mantener un registro actualizado de las actividades realizadas.
+Sistema web inclusivo desarrollado para gestionar actividades estudiantiles y facilitar la participación de todos los usuarios mediante herramientas accesibles. El sistema permite administrar actividades, registrar estudiantes, realizar búsquedas, generar reportes y garantizar una experiencia accesible y eficiente.
 
 ## Funcionalidades
 
-### Inicio de sesión
+### Gestión de actividades
+Crear, editar y eliminar actividades inclusivas para su administración dentro del sistema.
 
-Acceso seguro al sistema mediante usuario y contraseña para validar la identidad de cada usuario.
+### Inscripción de estudiantes
+Registrar estudiantes en actividades disponibles mediante formularios validados.
 
-### Gestión de usuarios
+### Búsqueda por cédula
+Buscar información de estudiantes utilizando su número de cédula.
 
-Registrar, modificar y administrar usuarios dentro del sistema.
+### Reportes en Excel
+Generar y exportar reportes de estudiantes y actividades en formato Excel.
 
-### Crear tareas
+### Lectura de contenido
+Facilitar el acceso a la información mediante herramientas de lectura accesibles.
 
-Registrar nuevas tareas indicando nombre, descripción, prioridad y usuario asignado.
+### Compatibilidad con navegadores
+Garantizar el correcto funcionamiento de la aplicación en distintos navegadores web.
 
-### Visualizar tareas
+### Rendimiento óptimo
+Optimizar los tiempos de respuesta y carga del sistema.
 
-Consultar las tareas asignadas y revisar su estado actual.
-
-### Filtrar tareas por usuario
-
-Seleccionar un usuario para visualizar únicamente las tareas que le corresponden.
-
-### Actualizar estado de tareas
-
-Modificar el estado de una tarea según su progreso o nivel de avance.
-
-### Marcar tareas como completadas
-
-Cambiar el estado de una tarea pendiente a completada una vez finalizada.
-
-### Importar y exportar información
-
-Almacenar y recuperar información mediante archivos Excel y JSON para mantener la persistencia de los datos.
-
-
-### Marcar tareas como completadas
-Los usuarios pueden indicar cuando una tarea ha sido finalizada.
+### Navegación por teclado
+Permitir el uso completo de la aplicación mediante el teclado para mejorar la accesibilidad.
 
 ### Importar y exportar información
 Permite almacenar y recuperar información utilizando archivos Excel y JSON.
