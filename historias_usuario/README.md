@@ -2,27 +2,42 @@
 
 ## Descripción
 
-Aplicación desarrollada para administrar tareas domésticas entre varios usuarios. El sistema permite crear tareas, asignarlas, visualizar su estado y marcar actividades como completadas.
+La Aplicación de Gestión de Tareas Domésticas es un sistema diseñado para facilitar la organización, asignación y seguimiento de actividades del hogar entre diferentes usuarios. Permite administrar tareas de manera eficiente, monitorear su estado y mantener un registro actualizado de las actividades realizadas.
 
 ## Funcionalidades
 
 ### Inicio de sesión
-Acceso al sistema mediante usuario y contraseña para validar la identidad del usuario.
+
+Acceso seguro al sistema mediante usuario y contraseña para validar la identidad de cada usuario.
 
 ### Gestión de usuarios
-Permite registrar, modificar y administrar usuarios del sistema.
+
+Registrar, modificar y administrar usuarios dentro del sistema.
 
 ### Crear tareas
-Permite al administrador registrar nuevas tareas y asignarlas a un usuario.
+
+Registrar nuevas tareas indicando nombre, descripción, prioridad y usuario asignado.
 
 ### Visualizar tareas
-Los usuarios pueden consultar las tareas que tienen asignadas.
+
+Consultar las tareas asignadas y revisar su estado actual.
 
 ### Filtrar tareas por usuario
-Permite visualizar únicamente las tareas correspondientes a un usuario específico.
+
+Seleccionar un usuario para visualizar únicamente las tareas que le corresponden.
 
 ### Actualizar estado de tareas
-Permite modificar el estado de una tarea según su progreso.
+
+Modificar el estado de una tarea según su progreso o nivel de avance.
+
+### Marcar tareas como completadas
+
+Cambiar el estado de una tarea pendiente a completada una vez finalizada.
+
+### Importar y exportar información
+
+Almacenar y recuperar información mediante archivos Excel y JSON para mantener la persistencia de los datos.
+
 
 ### Marcar tareas como completadas
 Los usuarios pueden indicar cuando una tarea ha sido finalizada.
