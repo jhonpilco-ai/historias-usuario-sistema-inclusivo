@@ -1,16 +1,16 @@
-# Historia de Usuario 5: Actualizar estado de tareas
+# Historia de Usuario 5: Lectura de Contenido
 
 ## Historia
 
-Como administrador
+Como usuario
 
-Quiero actualizar el estado de una tarea
+Quiero acceder a herramientas de lectura de contenido
 
-Para llevar control del avance de las actividades.
+Para comprender mejor la información presentada.
 
 ## Criterios de aceptación
 
-- El administrador puede modificar el estado de una tarea.
-- El sistema guarda los cambios realizados.
-- El nuevo estado es visible para los usuarios.
-- La actualización se refleja inmediatamente en el sistema.
+- El contenido puede visualizarse claramente.
+- La información es accesible para todos los usuarios.
+- El sistema mantiene una presentación legible.
+- La funcionalidad opera correctamente en diferentes dispositivos.
