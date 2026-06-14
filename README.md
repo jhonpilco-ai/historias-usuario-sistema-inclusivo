@@ -4,12 +4,13 @@ Este repositorio contiene la documentación de las historias de usuario y sus re
 
 ## Contenido
 
-- Historias de usuario.
-- Criterios de aceptación.
-- Descripción de las funcionalidades principales.
-- Referencia al tablero Scrum utilizado para la planificación y seguimiento del proyecto.
+* Historias de usuario.
+* Criterios de aceptación.
+* Descripción de las funcionalidades principales.
+* Referencia al tablero Scrum utilizado para la planificación y seguimiento del proyecto.
 
 ## Tablero Scrum
 
-Trello:
+**Trello:**
+
 https://trello.com/invite/b/6900dbc817e86ec38ce80a54/ATTIa24ba4101f619e76c2ad0e539fb690eaCE195DAC/scrum-sistema-inclusivo
