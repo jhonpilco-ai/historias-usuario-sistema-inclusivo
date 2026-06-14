@@ -1,2 +1,2 @@
 # Historias-usuario-gestion-tareas-domesticas
-Historias de usuario y criterios de aceptación para la aplicación de gestión de tareas domésticas.
+Este repositorio contiene las historias de usuario y sus respectivos criterios de aceptación para la aplicación de Gestión de Tareas Domésticas. Su propósito es documentar los requisitos funcionales del sistema desde la perspectiva de los usuarios, facilitando la comprensión de las funcionalidades principales y apoyando el proceso de desarrollo de software.
