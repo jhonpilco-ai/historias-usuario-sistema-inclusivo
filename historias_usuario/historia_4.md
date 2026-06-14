@@ -1,16 +1,16 @@
-# Historia de Usuario 4: Marcar tareas como completadas
+# Historia de Usuario 4: Reportes en Excel
 
 ## Historia
 
-Como usuario
+Como administrador
 
-Quiero marcar una tarea como completada
+Quiero generar reportes en formato Excel
 
-Para informar que la actividad fue finalizada.
+Para analizar y almacenar la información del sistema.
 
 ## Criterios de aceptación
 
-- El usuario puede seleccionar una tarea pendiente.
-- El sistema cambia el estado de la tarea a "Completada".
-- La actualización queda registrada.
-- El cambio permanece guardado después de cerrar la aplicación.
+- El sistema genera archivos Excel.
+- Los datos exportados son correctos.
+- El archivo puede descargarse.
+- El reporte contiene información actualizada.
