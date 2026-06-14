@@ -1,16 +1,16 @@
-# Historia de Usuario 3: Filtrar tareas por usuario
+# Historia de Usuario 3: Búsqueda por Cédula
 
 ## Historia
 
 Como administrador
 
-Quiero filtrar tareas por usuario
+Quiero buscar estudiantes mediante su número de cédula
 
-Para visualizar únicamente las tareas de un usuario específico.
+Para consultar rápidamente su información.
 
 ## Criterios de aceptación
 
-- El administrador puede seleccionar un usuario.
-- El sistema muestra únicamente las tareas del usuario seleccionado.
-- Si el usuario no tiene tareas asignadas, se muestra un mensaje informativo.
-- El filtro puede restablecerse para visualizar todas las tareas.
+- El sistema permite ingresar una cédula.
+- La búsqueda devuelve la información correspondiente.
+- Si no existe información, se muestra un mensaje informativo.
+- La búsqueda se realiza en pocos segundos.
