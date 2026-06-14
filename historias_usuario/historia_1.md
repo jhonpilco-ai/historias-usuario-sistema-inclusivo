@@ -1,18 +1,17 @@
-# Historia de Usuario 1: Crear tareas
+# Historia de Usuario 1: Gestión de Actividades
 
 ## Historia
 
 Como administrador
 
-Quiero crear nuevas tareas domésticas
+Quiero crear, editar y eliminar actividades inclusivas
 
-Para asignarlas a los usuarios del sistema.
+Para gestionar adecuadamente las actividades disponibles en el sistema.
 
 ## Criterios de aceptación
 
-- El administrador puede ingresar el nombre de la tarea.
-- El administrador puede ingresar una descripción.
-- El administrador puede seleccionar una prioridad.
-- El administrador puede asignar un usuario.
+- El administrador puede crear nuevas actividades.
+- El administrador puede editar actividades existentes.
+- El administrador puede eliminar actividades.
 - El sistema valida los campos obligatorios.
-- La tarea se guarda correctamente.
+- Los cambios quedan guardados correctamente.
