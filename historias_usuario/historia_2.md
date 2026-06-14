@@ -1,17 +1,16 @@
-# Historia de Usuario 2: Visualizar tareas
+# Historia de Usuario 2: Inscripción de Estudiantes
 
 ## Historia
 
-Como usuario
+Como estudiante
 
-Quiero visualizar mis tareas asignadas
+Quiero inscribirme en actividades disponibles
 
-Para conocer las actividades que debo realizar.
+Para participar en ellas de manera organizada.
 
 ## Criterios de aceptación
 
-- El usuario puede visualizar la lista de tareas asignadas.
-- Se muestra el nombre de la tarea.
-- Se muestra la prioridad de la tarea.
-- Se muestra el estado actual de la tarea.
-- La información se actualiza correctamente.
+- El estudiante puede visualizar las actividades disponibles.
+- El estudiante puede completar el formulario de inscripción.
+- El sistema valida la información ingresada.
+- La inscripción queda registrada correctamente.
