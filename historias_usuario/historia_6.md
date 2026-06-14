@@ -1,17 +1,16 @@
-# Historia de Usuario 6: Validar formulario de tareas
+# Historia de Usuario 6: Compatibilidad con Navegadores
 
 ## Historia
 
-Como administrador
+Como usuario
 
-Quiero validar la información ingresada en el formulario
+Quiero acceder al sistema desde diferentes navegadores
 
-Para evitar registros incompletos o incorrectos.
+Para utilizar la aplicación sin restricciones.
 
 ## Criterios de aceptación
 
-- El nombre de la tarea es obligatorio.
-- El usuario asignado es obligatorio.
-- El sistema muestra mensajes de error cuando faltan datos.
-- No se permite guardar tareas con información incompleta.
-- Los mensajes de validación son claros para el usuario.
+- La aplicación funciona en Google Chrome.
+- La aplicación funciona en Microsoft Edge.
+- La aplicación funciona en Mozilla Firefox.
+- La interfaz mantiene su diseño y funcionalidad.
