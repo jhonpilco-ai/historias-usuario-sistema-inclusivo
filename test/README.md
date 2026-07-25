@@ -28,3 +28,17 @@ Los casos de prueba tienen como objetivo verificar:
 # Organización de los casos de prueba
 
 La estructura de esta carpeta es la siguiente:
+
+```text
+test/
+│
+├── README.md
+│
+├── casos_historia_1.md
+├── casos_historia_2.md
+├── casos_historia_3.md
+├── casos_historia_4.md
+├── casos_historia_5.md
+├── casos_historia_6.md
+├── casos_historia_7.md
+└── casos_historia_8.md
