@@ -1,49 +1,46 @@
-# Casos de Prueba - Historia de Usuario 1
-# Gestión de Actividades
+# Casos de Prueba - Sistema Inclusivo
+
+## Historia de Usuario X: Nombre de la funcionalidad
+
+Descripción breve de qué se está validando.
 
 ---
 
-# Caso de prueba 1
+# Caso de Prueba Positivo
 
 ## ID del caso de prueba
 TC-001
 
 ## Título
-Creación exitosa de una actividad inclusiva
+Nombre del caso exitoso.
 
 ## Objetivo
-Validar que el administrador pueda crear una nueva actividad ingresando información válida.
+Explicación de qué funcionalidad se verifica.
 
 ## Precondiciones
-- El administrador debe haber iniciado sesión.
-- El sistema debe estar disponible.
-- El usuario debe tener permisos de administración.
+
+- Condición 1.
+- Condición 2.
+- Condición 3.
 
 ## Datos de prueba
 
-Nombre de actividad:
-Taller de Inclusión Digital
+| Campo | Valor |
+|---|---|
+| Dato 1 | Ejemplo |
+| Dato 2 | Ejemplo |
 
-Descripción:
-Capacitación sobre herramientas tecnológicas.
+## Pasos de ejecución
 
-Fecha:
-10/08/2026
-
-Cupos:
-30
-
-## Pasos
-
-1. Ingresar al módulo de gestión de actividades.
-2. Seleccionar la opción "Crear actividad".
-3. Completar todos los campos obligatorios.
-4. Presionar el botón "Guardar".
-5. Verificar la lista de actividades.
+| Paso | Acción |
+|---|---|
+| 1 | Acción inicial |
+| 2 | Acción siguiente |
+| 3 | Validación final |
 
 ## Resultado esperado
 
-La actividad debe registrarse correctamente y aparecer en el listado de actividades disponibles.
+Explicación del comportamiento correcto del sistema.
 
 ## Resultado obtenido
 
@@ -51,54 +48,46 @@ Pendiente de ejecución.
 
 ## Estado
 
-Pendiente
+🟡 Pendiente
 
-## Notas/Evidencias
+## Notas / Evidencias
 
-Se agregará captura o evidencia después de realizar la prueba.
+Se agregarán capturas, imágenes o registros después de la ejecución.
 
 ---
 
-# Caso de prueba 2
+# Caso de Prueba Negativo
 
 ## ID del caso de prueba
 TC-002
 
 ## Título
-Creación fallida de actividad con campos obligatorios vacíos
+Nombre del caso con error.
 
 ## Objetivo
-Validar que el sistema impida crear actividades cuando faltan datos requeridos.
+Validar cómo responde el sistema ante datos incorrectos o condiciones no permitidas.
 
 ## Precondiciones
-- El administrador debe haber iniciado sesión.
-- Debe encontrarse en el formulario de creación de actividades.
+
+- Condición necesaria.
 
 ## Datos de prueba
 
-Nombre de actividad:
-(Vacío)
+| Campo | Valor |
+|---|---|
+| Dato inválido | Ejemplo |
 
-Descripción:
-Actividad inclusiva
+## Pasos de ejecución
 
-Fecha:
-10/08/2026
-
-Cupos:
-30
-
-## Pasos
-
-1. Acceder al módulo de actividades.
-2. Seleccionar "Crear actividad".
-3. Dejar vacío un campo obligatorio.
-4. Presionar el botón "Guardar".
-5. Revisar la respuesta del sistema.
+| Paso | Acción |
+|---|---|
+| 1 | Acción |
+| 2 | Acción |
+| 3 | Verificar mensaje |
 
 ## Resultado esperado
 
-El sistema debe mostrar un mensaje indicando que existen campos obligatorios pendientes y no debe guardar la actividad.
+El sistema debe controlar el error y mostrar una respuesta adecuada.
 
 ## Resultado obtenido
 
@@ -106,8 +95,8 @@ Pendiente de ejecución.
 
 ## Estado
 
-Pendiente
+🟡 Pendiente
 
-## Notas/Evidencias
+## Notas / Evidencias
 
-Se agregará captura o evidencia después de realizar la prueba.
+Se agregarán capturas después de realizar la prueba.
